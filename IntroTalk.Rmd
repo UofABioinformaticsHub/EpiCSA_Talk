@@ -179,6 +179,14 @@ $1$ EB $\approx 10^9$ GB
 - Need Coding Skills
 - GUI based approaches limit your skills development
 
+## Reproducible Research
+
+- Has two meanings
+
+1. Results can be replicated biologically
+2. Results can be replicated computationally
+
+
 ## What is a Bioinformatician?
 
 <figure>
